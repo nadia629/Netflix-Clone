@@ -3,7 +3,6 @@
 <br />
 <div align="center">
   <a href="https://github.com/ioanat94/netflix">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Netflix_2015_N_logo.svg/800px-Netflix_2015_N_logo.svg.png" alt="Logo" width="80" height="auto">
   </a>
 
 <h3 align="center">Netflix Clone</h3>
