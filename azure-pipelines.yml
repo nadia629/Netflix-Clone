@@ -3,8 +3,8 @@ trigger:
 
 variables:
   azureSubscription: 'ac3b4843-6c84-4ba2-b436-7680459da5f1'
-  webAppName: "Netflix Clone"
-  environmentName: "NetflixEnv"
+  webAppName: "netflix-app"
+  environmentName: "netflix"
   vmImageName: 'ubuntu-latest'
 
 stages:
