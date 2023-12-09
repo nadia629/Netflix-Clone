@@ -33,7 +33,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -125,12 +124,5 @@ To get a local copy up and running follow these simple steps.
 <sub>Note: For security reasons, only admin accounts can access the Admin Dashboard. I won't make these credentials public but I can share them upon request.</sub>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTACT -->
-## Contact
-
-Ioana Tiplea - ioanatiplea94@gmail.com  - [LinkedIn](https://www.linkedin.com/in/ioana-tiplea/)
-
-Project Link: [https://github.com/ioanat94/netflix](https://github.com/ioanat94/netflix)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
