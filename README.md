@@ -3,6 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ioanat94/netflix">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Netflix_2015_N_logo.svg/800px-Netflix_2015_N_logo.svg.png" alt="Logo" width="80" height="auto">
   </a>
 
 <h3 align="center">Netflix Clone</h3>
@@ -38,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p align="center"><img src="https://firebasestorage.googleapis.com/v0/b/netflix-clone-49e41.appspot.com/o/prevN.png?alt=media&token=517f7148-b492-4eb9-a98e-6917e398ddab" alt="Netflix Screenshot" width="800" height="auto">  
+  
   <br />  
   <br />  
 <img src="https://firebasestorage.googleapis.com/v0/b/netflix-clone-49e41.appspot.com/o/prevAD.png?alt=media&token=0fe915b7-6614-4bf5-ac21-68fa1c4b13f5" alt="Admin Dashboard Screenshot" width="800" height="auto"></p>
